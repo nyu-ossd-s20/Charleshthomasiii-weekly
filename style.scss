@@ -170,11 +170,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $white;
-  background: $white;
+  background: $black;
 }
 ::selection {
   color: $white;
-  background: $white;
+  background: $black;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -322,7 +322,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $white;
+  background-color: $black;
 }
 
 footer {
@@ -338,7 +338,7 @@ table {
   th {
     font-weight: 800;
     background-color: #eee;
-    border: 1px solid white;
+    border: 1px solid black;
     padding: 10px;
   }
 
