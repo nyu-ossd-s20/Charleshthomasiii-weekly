@@ -18,8 +18,9 @@ Replace the first row with your own contribution.
 
 
 
-| Date #       | Contribution (Link)  | Type  | Description |
-|---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+ | 3 Feb 2020 |
+|---|
+ |https://github.com/dessalines/lemmy/issues/501  |  
+ | Dev environment setup clarification   | 
+ | Local development does not require a proxy server (Nginx) for most usage. The pictshare server and lemmy server must be hosted on different ports. Without Nginx as a proxy, all http requests to pictshare fail. After discovering this, the README.md was updated to explain this requisite.|
+
