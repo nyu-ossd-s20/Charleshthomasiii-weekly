@@ -1,2 +1,1 @@
-This is a simple template for the class blog. 
-
+Blog built with jekyll and published with Github pages.
