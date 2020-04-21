@@ -34,23 +34,24 @@ but if doing so jeopardizes your job or your reputation, nobody is gonna do it. 
 
 I think the reason this problem is so prevalent in CS and not in similar fields like engineering is twofold.
 
-Firstly, lay people can't see a how program collapses. Civil engineer builds bridge that collapses?<sup>5</sup> It wasn't strong enough. Engineer never practices again. 
-Mechanical engineers build car that fakes emissions?<sup>6</sup>  Hit 'em with a fine and fire the engineers. Software devs
-build faulty plane firmware that kills 346 people?<sup>7</sup> Whoops, *something something AI, algorithms, bugs, it's not our fault*. My point here
-isn't that mistakes are more common in software, it's just they're way, way harder for the lay person to understand. For example, catastrophic mechanical failure
-is obvious; the car doesn't start. Catastrophic security failure: almost invisible. You get hacked some time in the future and have no idea why. It's easy to
-tell a company the car they designed is gonna explode, because if it does, you're totally vindicated. It's harder to tell a company/open source project they have a vulnerability
-because if they get hacked they'll just blame whoever did it and shuck responsibility.
+Firstly, lay people can't see a how program collapses. Civil engineer builds bridge that collapses?<sup>5</sup> It wasn't strong enough. 
+Engineer never practices again. Mechanical engineers build car that fakes emissions?<sup>6</sup>  Hit 'em with a fine and fire the engineers. 
+Software devs build faulty plane firmware that kills 346 people?<sup>7</sup> Whoops, *something something AI, algorithms, bugs, it's not our fault*. 
+My point here isn't that mistakes are more common in software, it's just they're way, way harder for the lay person to understand. For example,
+catastrophic mechanical failure is obvious; the car doesn't start. Catastrophic security failure: almost invisible. You get hacked some time in
+the future and have no idea why. It's easy to tell a company that the car they designed is gonna explode, because if it does, you're totally vindicated.
+It's harder to tell a company/open source project they have a vulnerability because if they get hacked they'll just blame whoever did it and shuck 
+responsibility.
 
-Secondly, there's a comical amount of money in software. It's probably one of the best paying fields right now, and the result
+Secondly, there's a comical amount of money in software. It's the best paying fields right now, and the result
 is that everyone and their mother wants to learn python. Fine, everyone _can_ crank out a full web stack with an online tutorial, but it doesn't mean everyone
-_should_. Maybe that's a bit drastic to say, and I'm not trying to gate-keep web development, but I am saying there's an enormous amount of power that goes 
+_should_. Maybe that's a bit drastic to say. And I'm not trying to gate-keep web development, but I am saying there's an enormous amount of power that goes 
 unrecognized.<sup>8</sup>
 
 
 Let's restate the problem with some changes: _how do we motivate good developers, keep the pedants, and get people jobs?_
 I don't actually have a solution to this problem. Academia is frought with people trying to impress each other with clever 
-papers about nothing that use big words and industry is a bunch of sellouts. Maybe we could do with some kind of hippocratic oath or CS order.<sup>9</sup>
+papers that use big words and industry is a bunch of sellouts. Maybe we could do with some kind of hippocratic oath or CS order.<sup>9</sup>
 I honestly have no idea.
 
 
