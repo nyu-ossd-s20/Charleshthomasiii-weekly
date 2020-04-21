@@ -18,7 +18,7 @@ Replace the first row with your own contribution.
 
 
 
- | 3 Feb 2020 |
+ | Feb 2020 |
 |---|
  |https://github.com/dessalines/lemmy/issues/501  |  
  | Dev environment setup clarification   | 
