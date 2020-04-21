@@ -6,8 +6,8 @@ In my opinion, the most difficult problem in open source software development (O
 How do we motivate people to work for free? More importantly: how do we motivate _highly skilled_ developers who 
 could otherwise spend their time making buckets of money? The greater good isn't always good enough for good developers.
 
-Take bloomberg guy for example. Clearly, he's super talented. He knows dozens of systems inside and out. But how does he spend his time?
-Working for bloomberg. I'm not faulting him on this (I'd take the money too), nor am I bashing on bloomberg (it seems
+Take Bloomberg guy for example. Clearly, he's super talented. He knows dozens of systems inside and out. But how does he spend his time?
+Working for Bloomberg. I'm not faulting him on this (I'd take the money too), nor am I bashing on Bloomberg (it seems
 like an upstanding company despite being in finance). But when it gets down to brass tacks, we've all got limited time,
 and he's making bank doing something he loves. And that thing isn't OSSD.<sup>1</sup>
 
@@ -22,7 +22,7 @@ The greater good takes a backseat. _Even more frightening_: the stakes of being 
 astronomical heights. Verizon guy agrees: "Make your github look good or I won't hire you". That isn't a quote,
 but he said several times that a presentable github impresses him (the flipside being a bad one does not)<sup>2</sup>. The converse
 equation: *not good github -> no job*. When I heard him talk about making a presentable github, I was *this* close to launching into a diatribe 
-on corporate america having disproportionate influence on computer science. I didn't because it would've ruined the presentation and
+on corporate America having disproportionate influence on computer science. I didn't because it would've ruined the presentation and
 I don't think he would give a talk again.<sup>3</sup> If students are conscious of the fact that employers look at their github,
 they won't take risks. What if your OSS project is ideologically opposed to modern advertising practices? What if it
 would mean the undoing of a fortune 500 company? What if the founder is a communist nutjob with good intentions?<sup>4</sup> 
@@ -44,7 +44,7 @@ It's harder to tell a company/open source project they have a vulnerability beca
 responsibility.
 
 Secondly, there's a comical amount of money in software. It's the best paying field right now, and the result
-is that everyone and their mother wants to learn python. Fine, everyone _can_ crank out a full web stack with an online tutorial, but it doesn't mean everyone
+is that everyone and their mother wants to learn python. Fine, everyone _can_ crank out a web stack with an online tutorial, but it doesn't mean everyone
 _should_. Maybe that's a bit drastic to say. And I'm not trying to gate-keep web development, but I am saying there's an enormous amount of power that goes 
 unrecognized.<sup>8</sup>
 
@@ -56,15 +56,15 @@ I honestly have no idea.
 
 
 
-<sup>1</sup>That's an exageration. He said he spends a small amount of time on ansible.
+<sup>1</sup>That's an exaggeration. He said he spends a small amount of time on ansible.
 
 <sup>2</sup>talent acquisition is a zero sum game.
 
 <sup>3</sup>Also I think he's a hack and there's a reason he works for verizon. His whole presentation
-could have been boiled down to: "I work for verizon. I have access to jobs. Open source is cool.
-I've never coded a day in my life. I can hire you because I work for verizon. Yeah we don't makes tools at verizon 
+could have been boiled down to: "I work for Verizon. I have access to jobs. Open source is cool.
+I've never coded a day in my life. I can hire you because I work for Verizon. Yeah we don't makes tools at Verizon 
 but we use the tools other companies make and that's better because reasons. I have no real understanding of the open source tools we
-use at verizon but I'm going to list them anyway hoping I don't show my hand. Please use our search engine because there's a pandemic
+use at Verizon but I'm going to list them anyway hoping I don't show my hand. Please use our search engine because there's a pandemic
 right now. Open source is cool. I have access to jobs." Despite my blood boiling the entire time, I really did appreciate 
 hearing his perspective on open source. His intentions are good, but his incentives are warped.
 
