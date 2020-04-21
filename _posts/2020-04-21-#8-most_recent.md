@@ -50,7 +50,7 @@ unrecognized.<sup>8</sup>
 
 
 Let's restate the problem with some changes: _how do we motivate good developers, keep the pedants, and get people jobs?_
-I don't actually have a solution to this problem. Academia is frought with people trying to impress each other with clever 
+I don't actually have a solution. Academia is frought with people trying to impress each other with clever 
 papers that use big words and industry is a bunch of sellouts. Maybe we could do with some kind of hippocratic oath or CS order.<sup>9</sup>
 I honestly have no idea.
 
