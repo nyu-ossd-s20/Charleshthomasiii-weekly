@@ -36,11 +36,13 @@ Replace the first row with your own contribution.
  
 | Apr 2020 |
 |---|
+| https://github.com/LemmyNet/lemmy/issues/625|
  | Lemmy Coding Technical Debt| 
- | Our group spent significant time researching an issue https://github.com/LemmyNet/lemmy/issues/625 related to restructuring large portions of code. After much discussion, we asked the developers for clarification on how to proceed. We were advised to not attempt to fix the issue at this point in time for unrelated reasons. While we made no direct contribution (other than public discussion), we learned a significant amount about how the code itself is structured. (API endpoints, idiomatic rust, proper module scope, rust struct structure)|
+ | Our group spent significant time researching an issue related to restructuring large portions of code. After much discussion, we asked the developers for clarification on how to proceed. We were advised to not attempt to fix the issue at this point in time for unrelated reasons. While we made no direct contribution (other than public discussion), we learned a significant amount about how the code itself is structured. (API endpoints, idiomatic rust, proper module scope, rust struct structure)|
  
 | Apr 2020 |
 |---|
+|https://github.com/LemmyNet/lemmy/pull/640|
  | Unit Testing Dependency| 
- |After attempting to run a script that executed a number of united tests, we discovered that there was a required dependency called ab - Apache HTTP server benchmarking tool. I made a quick fix in the bash script that checked if it was there before executing commands, and if not then alerts the user. The pull request was quickly merged. https://github.com/LemmyNet/lemmy/pull/640|
+ |After attempting to run a script that executed a number of united tests, we discovered that there was a required dependency called ab - Apache HTTP server benchmarking tool. I made a quick fix in the bash script that checked if it was there before executing commands, and if not then alerts the user. The pull request was quickly merged. |
 
