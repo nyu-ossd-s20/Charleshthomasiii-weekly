@@ -43,7 +43,7 @@ the future and have no idea why. It's easy to tell a company that the car they d
 It's harder to tell a company/open source project they have a vulnerability because if they get hacked they'll just blame whoever did it and shuck 
 responsibility.
 
-Secondly, there's a comical amount of money in software. It's the best paying fields right now, and the result
+Secondly, there's a comical amount of money in software. It's the best paying field right now, and the result
 is that everyone and their mother wants to learn python. Fine, everyone _can_ crank out a full web stack with an online tutorial, but it doesn't mean everyone
 _should_. Maybe that's a bit drastic to say. And I'm not trying to gate-keep web development, but I am saying there's an enormous amount of power that goes 
 unrecognized.<sup>8</sup>
