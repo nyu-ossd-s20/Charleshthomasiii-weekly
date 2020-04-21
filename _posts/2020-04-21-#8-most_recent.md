@@ -66,7 +66,7 @@ I've never coded a day in my life. I can hire you because I work for verizon. Ye
 but we use the tools other companies make and that's better because reasons. I have no real understanding of the open source tools we
 use at verizon but I'm going to list them anyway hoping I don't show my hand. Please use our search engine because there's a pandemic
 right now. Open source is cool. I have access to jobs." Despite my blood boiling the entire time, I really did appreciate 
-hearing his perspective on open source. He intentions are good, but his incentives are warped.
+hearing his perspective on open source. His intentions are good, but his incentives are warped.
 
 <sup>4</sup> See lemmy
 
