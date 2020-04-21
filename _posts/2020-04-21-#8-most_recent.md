@@ -57,7 +57,9 @@ I honestly have no idea.
 
 
 <sup>1</sup>That's an exageration. He said he spends a small amount of time on ansible.
+
 <sup>2</sup>talent acquisition is a zero sum game.
+
 <sup>3</sup>Also I think he's a hack and there's a reason he works for verizon. His whole presentation
 could have been boiled down to: "I work for verizon. I have access to jobs. Open source is cool.
 I've never coded a day in my life. I can hire you because I work for verizon. Yeah we don't makes tools at verizon 
@@ -65,10 +67,16 @@ but we use the tools other companies make and that's better because reasons. I h
 use at verizon but I'm going to list them anyway hoping I don't show my hand. Please use our search engine because there's a pandemic
 right now. Open source is cool. I have access to jobs." Despite my blood boiling the entire time, I really did appreciate 
 hearing his perspective on open source. He intentions are good, but his incentives are warped.
+
 <sup>4</sup> See lemmy
+
 <sup>5</sup>See [bridge collapse](https://www.constructiondive.com/news/osha-places-blame-for-fiu-bridge-collapse-on-engineer-contractors/556798/) 
+
 <sup>6</sup>See [volkswagen](https://www.bbc.com/news/business-34324772) 
+
 <sup>7</sup>See [boeing](https://www.constructiondive.com/news/osha-places-blame-for-fiu-bridge-collapse-on-engineer-contractors/556798/) 
+
 <sup>8</sup>See [Peter Parker principle](https://youtu.be/DLj988xA08I?t=93)
+
 <sup>9</sup>See [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer) 
 
