@@ -25,7 +25,7 @@ equation: *not good github -> no job*. When I heard him talk about making a pres
 on corporate america having disproportionate influence on computer science. I didn't because it would've ruined the presentation and
 I don't think he would give a talk again.<sup>3</sup> If students are conscious of the fact that employers look at their github,
 they won't take risks. What if your OSS project is ideologically opposed to modern advertising practices? What if it
-would mean the undoing of a fortune 500 company? What if the founder is a communist nutjob with good intentions?<sup>4</sup>
+would mean the undoing of a fortune 500 company? What if the founder is a communist nutjob with good intentions?<sup>4</sup> 
 
 The corollary to my risk avoidance point is assholery avoidance. It never pays to be an asshole on the internet when you're trying to get a job. 
 Sometimes, though, it's necessary. For example, only the most pedantic assholes are capable of finding esoteric security vulnerabilities,
